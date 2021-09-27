@@ -1,0 +1,53 @@
+body{
+    font-family: Calibri;
+}
+.tree{
+    fill: darkgreen;
+    stroke: darkgreen;
+    stroke-width: 5px;
+}
+.branch{
+    fill: saddlebrown;
+    text-align: center;
+}
+.circ {
+    fill: red;
+}
+    .circ2 {
+        fill: darkgoldenrod;
+    }
+        .circ3{
+            fill: darkblue;
+        }
+        .ellipse {
+            stroke: black;
+            fill: red;}
+        .ellipse2 {
+            stroke: black;
+            fill: orange;
+        }
+        .ellipse3{
+            stroke: black;
+            fill: green;
+        }
+        .ellipse4{
+            stroke: black;
+            fill: blue;
+        }
+        .ellipse5{
+            stroke: black;
+            fill: yellow;
+        }
+        .ellipse6{
+            stroke: black;
+            fill: indigo;
+        }
+        .ellipse7{
+            stroke: black;
+            fill: violet;
+        }
+
+
+
+
+
